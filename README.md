@@ -1,4 +1,4 @@
-# UST Interview Programs
+# Programs
 ### 1. Circular Queue Program
 
 
