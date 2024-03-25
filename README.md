@@ -6,7 +6,7 @@
 its last position is connected to it first position to make a circular queue. 
 
 Output for the Reference: 
-![img.png](img.png)
+![img.png](Images/img.png)
 
 ### 2. Divisibility Program using Generators
 
@@ -14,4 +14,4 @@ Output for the Reference:
 
 Output for the Reference
 
-![img_1.png](img_1.png)
+![img_1.png](Images/img_1.png)
